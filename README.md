@@ -16,7 +16,6 @@
 ### Default Files
 * [_config.yml_](https://github.com/Drawethree/PrisonRanks/wiki/config.yml)
 * [_ranks.yml_](https://github.com/Drawethree/PrisonRanks/wiki/ranks.yml)
-* [_items.yml_](https://github.com/Drawethree/PRO-DeathChest/wiki/items.yml)
 ### Support
 * [FAQ](https://github.com/Drawethree/PrisonRanks/wiki/Frequently-Asked-Questions)
 ### For Developers
